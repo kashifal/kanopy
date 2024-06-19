@@ -1,6 +1,6 @@
 import "./App.css";
 import AcclaimedMovies from "./components/AcclaimedMovies";
-import CTA from "./components/CTA.JSX";
+import CTA from "./components/CTA";
 import Faqs from "./components/Faqs";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
